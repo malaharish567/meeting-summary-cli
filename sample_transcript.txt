@@ -1,0 +1,17 @@
+Priya: Good morning, everyone. Let’s start with updates on the new mobile app release timeline.
+
+Arjun: Development is about 80% complete. The backend APIs are stable, but we still need to finish integrating the payment gateway. That should take another week.
+
+Kavya: On the design side, the new onboarding flow is ready. I’ve shared the prototypes with the team. Feedback has been positive, but we’ll need to tweak the color contrast for accessibility.
+
+Ramesh: QA has started testing the login and profile modules. We’ve found a few minor bugs, mostly related to error messages not displaying correctly. Nothing critical so far.
+
+Priya: Thanks. Let’s aim to wrap development by next Friday so QA can get a full week of testing before the release. Any blockers?
+
+Arjun: The payment gateway integration depends on credentials from the vendor. I’ve already requested them, but we’re waiting.
+
+Priya: Noted. I’ll follow up with the vendor today. Anything else?
+
+Kavya: Just a reminder that we’ll need final approval from the branding team before locking the UI.
+
+Priya: Good point. I’ll schedule a review with them early next week. If there’s nothing else, let’s close here. Thanks, everyone.
